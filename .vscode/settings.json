@@ -4,5 +4,6 @@
         ".vscode{,/**}"
     ],
     "appService.defaultWebAppToDeploy": "/subscriptions/dee8c4a8-6383-4c8a-b0ca-74c4ec61cabf/resourceGroups/FoxenaServer/providers/Microsoft.Web/sites/iServiceFXN",
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "git.ignoreLimitWarning": true
 }
